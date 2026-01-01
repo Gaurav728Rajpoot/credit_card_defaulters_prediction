@@ -1,0 +1,15 @@
+# Ignore Data Files
+*.csv
+*.xlsx
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+
+# Ignore Keras Tuner Logs
+my_dir/
+
+# Ignore Virtual Environment (if you have one)
+env/
+venv/
+.ipynb_checkpoints/

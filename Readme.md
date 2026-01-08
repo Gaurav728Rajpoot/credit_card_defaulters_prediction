@@ -30,7 +30,7 @@ I engineered a solution focusing on **Business Value** rather than vanity metric
 
 | Metric | Baseline Model | Final Model (Weighted) | Change |
 | :--- | :--- | :--- | :--- |
-| **Accuracy** | 82% | 77% | -5% (Expected Trade-off) |
+| **Accuracy** | 80% | 77% | -3% (Expected Trade-off) |
 | **Recall (Defaulters)**| 39% | **61%** | **+22% (Huge Win)** |
 | **F1-Score** | 0.48 | 0.53 | +5% |
 
